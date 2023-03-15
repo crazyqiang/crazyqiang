@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyqiang&hide=contribs&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyqiang&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😄 **自我介绍**：Android开发工程师一枚，曾就职于58、滴滴等公司，目前就职于作业帮。欢迎与我交流~
+- 😄 **自我介绍**：**专注于Android开发领域，曾就职于58、滴滴等公司，目前就职于作业帮。欢迎与我交流**~
 - 📫 **Email**：[mqcoder90@gmail.com](mqcoder90@gmail.com)
 - 🔭 **Blog地址**：[CSDN](https://blog.csdn.net/u013700502)、[稀土掘金](https://juejin.cn/user/1503787636231613/posts)
 - 💬 **联系我**：[公众号：代码说](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4Mjc1ODA1Mw==&scene=124#wechat_redirect)
