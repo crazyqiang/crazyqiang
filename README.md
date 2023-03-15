@@ -1,5 +1,4 @@
-## Welcome to my Github,leave your Star if you like, thanks! 
-## 欢迎访问我的Github，如果喜欢，请不要吝啬您的star哟！
+#### Welcome to my Github,leave your Star if you like, thanks!  欢迎访问我的Github，如果喜欢，请不要吝啬您的star哟！
 
 <!--
 **crazyqiang/crazyqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
