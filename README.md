@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 👯 **轻松一刻**：[公众号：闲暇一览](https://xmkp-1253152423.cos.ap-beijing.myqcloud.com/wechat_easy_time.png)
 
 
-<img src="https://xmkp-1253152423.cos.ap-beijing.myqcloud.com/wechat_code_talk2.png" width="500"> <img src="https://xmkp-1253152423.cos.ap-beijing.myqcloud.com/wechat_easy_time.png" width="500">
+<img src="https://xmkp-1253152423.cos.ap-beijing.myqcloud.com/wechat_code_talk3.png" width="400"> <img src="https://xmkp-1253152423.cos.ap-beijing.myqcloud.com/wechat_easy_time.png" width="400">
 
