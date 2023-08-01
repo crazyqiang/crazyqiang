@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 **自我介绍**：**专注于Android开发领域，曾就职于58、滴滴等公司，目前就职于作业帮。欢迎与我交流**~
 - 📫 **Email**：[mqcoder90@gmail.com](mqcoder90@gmail.com)
 - 🔭 **Blog地址**：[CSDN](https://blog.csdn.net/u013700502)、[稀土掘金](https://juejin.cn/user/1503787636231613/posts)
-- 💬 **联系我**：[公众号：代码说](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4Mjc1ODA1Mw==&scene=124#wechat_redirect)
+- 💬 **微信公众号(技术)**：`代码说`
 - 👯 **轻松一刻**：[公众号：闲暇一览](https://xmkp-1253152423.cos.ap-beijing.myqcloud.com/wechat_easy_time.png)
 
 
